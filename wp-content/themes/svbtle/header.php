@@ -59,7 +59,7 @@
 <?php endforeach; ?>  
 				<?php if (!empty($options['twitter_username'])): ?>
 					<li class="link twitter">
-						<a target="_blank" href="http://twitter.com/<?php echo $options['twitter_username'] ?>">@<?php echo $options['twitter_username'] ?></a>
+						<a target="_blank" href="https://alpha.app.net/<?php echo $options['twitter_username'] ?>">@<?php echo $options['twitter_username'] ?></a>
 					</li>
 				<?php endif ?>
 				
