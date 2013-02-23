@@ -59,13 +59,13 @@
 <?php endforeach; ?>  
 				<?php if (!empty($options['twitter_username'])): ?>
 					<li class="link twitter">
-						<a target="_blank" href="https://alpha.app.net/<?php echo $options['twitter_username'] ?>">@<?php echo $options['twitter_username'] ?></a>
+						<a target="_blank" href="https://alpha.app.net/<?php echo $options['twitter_username'] ?>">alpha.app.net/<?php echo $options['twitter_username'] ?></a>
 					</li>
 				<?php endif ?>
 				
 				<?php if (!empty($options['github_username'])): ?>
 					<li class="link github">
-						<a target="_blank" href="http://github.com/<?php echo $options['github_username'] ?>">Github</a>
+						<a target="_blank" href="http://github.com/<?php echo $options['github_username'] ?>">github.com/<?php echo $options['github_username'] ?></a>
 					</li>
 				<?php endif ?>
 				
